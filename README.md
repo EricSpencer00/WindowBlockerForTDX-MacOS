@@ -24,7 +24,7 @@ TDX creates a new window whenever you click a new Ticket/User/etc. This script, 
 1. In the Stay for Safari interface, click on the "+" button to add a new script.
 2. Enter a name for your script (e.g., `My Custom Script`).
 3. Copy the contents of your `script.js` file and paste it into the script editor.
-4. Specify the URL patterns where you want the script to run (e.g., `*://*/*` for all websites).
+4. Specify the TDX URL in the 6th line of the script.
 
 ### 4. Save and Activate the Script
 1. Click the "Save" button to save your script.

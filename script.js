@@ -3,7 +3,7 @@
 // @namespace    https://example.com
 // @version      1.0
 // @description  Overrides openWin to display content in a modal overlay and removes openWinHref onclick attributes on services.luc.edu pages.
-// @match        https://services.luc.edu/*
+// @match        https://services.university.edu/*
 // @grant        none
 // ==/UserScript==
 
